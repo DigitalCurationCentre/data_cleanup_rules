@@ -5,7 +5,7 @@ module DataCleanup
     module Org
       class FixBlankLanguage < Rules::Base
 
-        DEFAULT_LANGUAGE = Language.find_by(abbreviation: "en-GB")
+        DEFAULT_LANGUAGE = Language.find_by(abbreviation: "en_GB")
 
         def description
           "Fix blank language on Org"
