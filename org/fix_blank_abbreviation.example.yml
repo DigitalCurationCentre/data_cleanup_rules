@@ -1,9 +1,9 @@
 -
   id: 1234
-  name: University of Edinburgh
-  abbreviation: UoE
+  name: HEC Montreal
+  abbreviation: HEC-Mont
 -
   id: 1235
-  name: De Montfort University
+  name: Queen's University
   abbreviation: "DMU"
 # ...
